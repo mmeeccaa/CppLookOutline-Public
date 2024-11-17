@@ -16,6 +16,7 @@ Visual Studio C/C++ のアウトラインをより見やすく拡張します。
 このツールが役立つと思われた場合は、私たちの活動を継続できるよう、スポンサーになることをご検討ください。  
 以下のスポンサー特典をご用意しております。 
 - 非公開ソースコード [CppLookOutline](https://github.com/mmeeccaa/CppLookOutline)
+- 新機能への早期アクセス  
 
 <br>
 <p align="center">
