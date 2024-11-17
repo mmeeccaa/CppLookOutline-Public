@@ -1,5 +1,5 @@
 # CppLookOutline  
-- [日本語版はこちら](README.ja.md)  
+- [日本語版はこちら](README.jp.md)  
   
 This extends the Visual Studio C/C++ outline to make it more readable.  
 To use it, please disable the default outline functionality.  
