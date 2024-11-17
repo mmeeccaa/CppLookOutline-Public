@@ -16,6 +16,7 @@ Please consider <strong>donating</strong> and supporting the project. Your suppo
 If you found this tool helpful, please consider becoming a sponsor so we can continue our work.!  
 We offer the following sponsor benefits: 
 - Private source code [CppLookOutline](https://github.com/mmeeccaa/CppLookOutline)  
+- Early access to new features  
 <br>  
   
 <p align="center">
